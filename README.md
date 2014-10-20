@@ -1,0 +1,4 @@
+amanda_testrepo
+===============
+
+test
